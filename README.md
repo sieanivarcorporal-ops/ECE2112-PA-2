@@ -1,4 +1,7 @@
 # ECE2112-PA-2
+
+**Made by Siean Ivar B. Corporal | 2ECE - A**
+
 **Objectives**
   1. create and reshape NumPy arrays using appropriate NumPy functions;
   2. perform vectorized numerical operations on an ndarray;
